@@ -2,6 +2,13 @@
   text-align: center !important;
 }
 
+.ui.menu.fixed {
+  position: relative;
+  z-index: 101;
+  margin: 0;
+  width: 100%;
+}
+
 
 .App-logo {
   height: 40vmin;
